@@ -75,15 +75,20 @@ author:
 
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/thuwebaramah"
+
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:thuwebaramah@gmail.com"
+
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/thuwebaramah"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/t_twitter"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/thuwebaramah"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/lashmiramadhan"
 
 defaults:
   # _posts
