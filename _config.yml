@@ -75,6 +75,8 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/t_twitter"
+      
+favicon: /assets/images/icon.jpg
 
 defaults:
   # _posts
