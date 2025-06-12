@@ -1,6 +1,6 @@
 ---
 layout: home
-tittle: "Portfolio-Thuweba"
+title: ""
 author_profile: true
 ---
 
