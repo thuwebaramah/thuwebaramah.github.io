@@ -2,6 +2,7 @@
 layout: home
 title: ""
 author_profile: true
+entries_layout: none
 ---
 
 # 👋 Hi, I'm Thuweba Soud
