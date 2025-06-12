@@ -1,5 +1,5 @@
 ---
-title: "Posts by Tag"
+title: "CTF Journey"
 permalink: /ctf/
 layout: tags
 author_profile: true
