@@ -58,8 +58,7 @@ plugins:
 author:
   name   : "Thuweba Ramadhan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "IT professional focused on cybersecurity, digital trust and real-world threat defense.
-Exploring security through hands-on learning, curiosity and continuous growth."
+  bio    : "IT + cybersecurity | Focused on digital trust."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
