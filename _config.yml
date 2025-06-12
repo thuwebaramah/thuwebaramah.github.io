@@ -78,6 +78,10 @@ footer:
       
 favicon: /assets/images/icon.jpg
 
+minimal_mistakes_footer:
+  powered_by: false
+  custom_text: "© 2025 Thuweba Soud."
+
 defaults:
   # _posts
   - scope:
