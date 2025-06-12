@@ -43,7 +43,7 @@ I’m an ICT professional with hands-on experience in IT support, network design
   Designed GPON networks for national digitization.
 
 - 🛠️ **ICT Intern @ Kenya Power & Kaimosi University**  
-  Provided IT support for 3000+ users, managed inventory, and maintained systems.
+  Provided IT support for 3000+ users, managed inventory and maintained systems.
 
 - 🧪 **Sales & CRM Work @ Yusudi Africa**  
   Combined technical and communication skills in market research & lead generation.
@@ -66,4 +66,4 @@ I’m an ICT professional with hands-on experience in IT support, network design
 
 ---
 
-> *“Blending hands-on IT experience with a passion for digital security.”*
+> *“Blending hands on IT experience with a passion for digital security.”*
