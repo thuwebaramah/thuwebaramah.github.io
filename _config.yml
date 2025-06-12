@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thuwebaramah"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linked"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/thuwebaramah"
 
 footer:
@@ -82,7 +82,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thuwebaramah"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://instagram.com/lashmiramadhan"
 
 defaults:
