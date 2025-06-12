@@ -46,4 +46,4 @@ title: "Skills"
 
 ---
 
-> 💡 *I'm always exploring new technologies and improving my hands-on skills, especially in cybersecurity and digital systems support.*
+> 💡 *I'm always exploring new technologies and improving my skills, especially in cybersecurity and digital systems support.*
