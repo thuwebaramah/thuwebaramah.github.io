@@ -110,6 +110,10 @@ defaults:
       layout: single
       author_profile: true
 
+minimal_mistakes_footer:
+  powered_by: false
+  custom_text: "© 2025 Thuweba Soud. All rights reserved."
+
 category_archive:
   type: liquid
   path: /categories/
